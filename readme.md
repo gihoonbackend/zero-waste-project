@@ -8,5 +8,6 @@
 ![일정표](https://github.com/gihoonbackend/zero-waste-project/blob/main/image/TIMETABLE.png?raw=true)
 ### 분리배출 펀딩 플랫폼 : 어씽 (EARTYING)
 
-![프로토타입](https://www.figma.com/proto/uRoQwZGAhNRo2bvS9ju0zx/%EC%A0%9C%EB%A1%9C%EC%9B%A8%EC%9D%B4%EC%8A%A4-%ED%95%B4%EC%BB%A4%ED%86%A4?page-id=0%3A1&type=design&node-id=43-3&viewport=401%2C631%2C0.13&t=XrF6TXZsyFxlhf42-1&scaling=min-zoom&starting-point-node-id=199%3A5297)
+![프로토타입](https://github.com/gihoonbackend/zero-waste-project/blob/main/image/PROTO.png?raw=true)
+(https://www.figma.com/proto/uRoQwZGAhNRo2bvS9ju0zx/%EC%A0%9C%EB%A1%9C%EC%9B%A8%EC%9D%B4%EC%8A%A4-%ED%95%B4%EC%BB%A4%ED%86%A4?page-id=0%3A1&type=design&node-id=43-3&viewport=401%2C631%2C0.13&t=XrF6TXZsyFxlhf42-1&scaling=min-zoom&starting-point-node-id=199%3A5297)
 
